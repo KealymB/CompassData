@@ -1,0 +1,457 @@
+[
+    {
+        "_id": "55872fe0700964b6509389c0",
+        "start": "2018-09-20T00:00:00.000Z",
+        "name": "Thursday",
+        "end": "2018-09-20T00:00:00.000Z",
+        "locations": []
+    },
+    {
+        "_id": "55872fe0700964b6509389d0",
+        "start": "2018-09-18T00:00:00.000Z",
+        "name": "Tuesday",
+        "end": "2018-09-18T23:59:00.000Z",
+        "locations": []
+    },
+    {
+        "_id": "55872fe0700964b6509389e8",
+        "start": "2018-09-19T00:00:00.000Z",
+        "name": "Wednesday",
+        "end": "2018-09-19T00:00:00.000Z",
+        "locations": []
+    },
+    {
+        "_id": "55872fe0700964b6509389f1",
+        "start": "2018-09-20T07:15:00.000Z",
+        "parent": "55872fe0700964b6509389c0",
+        "name": "Morning",
+        "end": "2018-09-20T12:00:00.000Z",
+        "locations": []
+    },
+    {
+        "_id": "55872fe0700964b6509389f3",
+        "start": "2018-09-20T15:30:00.000Z",
+        "parent": "55872fe0700964b650938a0d",
+        "name": "Session 10",
+        "end": "2018-09-20T17:30:00.000Z",
+        "locations": [{
+            "ordering": 1,
+            "_id": "55872fe0700964b650938a08"
+        }]
+    },
+    {
+        "_id": "55872fe0700964b6509389f4",
+        "start": "2018-09-20T13:00:00.000Z",
+        "parent": "55872fe0700964b650938a0d",
+        "name": "Session 9",
+        "end": "2018-09-20T15:30:00.000Z",
+        "locations": [{
+            "ordering": 0,
+            "_id": "55872fe0700964b650938a04"
+        }]
+    },
+    {
+        "_id": "55872fe0700964b6509389f5",
+        "start": "2018-09-20T08:45:00.000Z",
+        "parent": "55872fe0700964b6509389f1",
+        "name": "Workshop",
+        "end": "2018-09-20T11:00:00.000Z",
+        "locations": [{
+            "ordering": 1,
+            "_id": "55872fe0700964b650938a25"
+        }]
+    },
+    {
+        "_id": "55872fe0700964b6509389f6",
+        "start": "2018-09-20T08:00:00.000Z",
+        "parent": "55872fe0700964b6509389f1",
+        "name": "Session 8",
+        "end": "2018-09-20T08:45:00.000Z",
+        "locations": [{
+            "ordering": 1,
+            "_id": "55872fe0700964b6509389db"
+        }]
+    },
+    {
+        "_id": "55872fe0700964b650938a02",
+        "start": "2018-09-18T12:30:00.000Z",
+        "parent": "55872fe0700964b6509389d0",
+        "name": "Afternoon",
+        "end": "2018-09-18T17:30:00.000Z",
+        "locations": []
+    },
+    {
+        "_id": "55872fe0700964b650938a06",
+        "start": "2018-09-19T12:30:00.000Z",
+        "parent": "55872fe0700964b6509389e8",
+        "name": "Afternoon",
+        "end": "2018-09-19T17:30:00.000Z",
+        "locations": []
+    },
+    {
+        "_id": "55872fe0700964b650938a0d",
+        "start": "2018-09-20T12:30:00.000Z",
+        "parent": "55872fe0700964b6509389c0",
+        "name": "Afternoon",
+        "end": "2018-09-20T17:30:00.000Z",
+        "locations": []
+    },
+    {
+        "_id": "55872fe0700964b650938a14",
+        "start": "2018-09-18T10:30:00.000Z",
+        "parent": "55872fe0700964b650938a1c",
+        "name": "Poster Presentation 2",
+        "end": "2018-09-18T11:00:00.000Z",
+        "locations": []
+    },
+    {
+        "_id": "55872fe0700964b650938a15",
+        "start": "2018-09-18T10:00:00.000Z",
+        "parent": "55872fe0700964b650938a1c",
+        "name": "Poster Presentation 1",
+        "end": "2018-09-18T10:30:00.000Z",
+        "locations": []
+    },
+    {
+        "_id": "55872fe0700964b650938a16",
+        "start": "2018-09-19T14:30:00.000Z",
+        "parent": "55872fe0700964b650938a06",
+        "name": "Session 7",
+        "end": "2018-09-19T17:30:00.000Z",
+        "locations": [{
+            "ordering": 1,
+            "_id": "55872fe0700964b6509389f0"
+        }]
+    },
+    {
+        "_id": "55872fe0700964b650938a17",
+        "start": "2018-09-19T14:30:00.000Z",
+        "parent": "55872fe0700964b650938a06",
+        "name": "Session 6",
+        "end": "2018-09-19T17:30:00.000Z",
+        "locations": [{
+            "ordering": 1,
+            "_id": "55872fe0700964b6509389da"
+        }]
+    },
+    {
+        "_id": "55872fe0700964b650938a18",
+        "start": "2018-09-18T08:30:00.000Z",
+        "parent": "59d245d24a1b43e23845eb1f",
+        "name": "Presentation Name 1",
+        "end": "2018-09-18T09:00:00.000Z",
+        "locations": []
+    },
+    {
+        "_id": "55872fe0700964b650938a19",
+        "start": "2018-09-18T09:30:00.000Z",
+        "parent": "59d245d24a1b43e23845eb1f",
+        "name": "Presentation Name 3",
+        "end": "2018-09-18T10:00:00.000Z",
+        "locations": []
+    },
+    {
+        "_id": "55872fe0700964b650938a1a",
+        "start": "2018-09-18T09:00:00.000Z",
+        "parent": "59d245d24a1b43e23845eb1f",
+        "name": "Presentation Name 2",
+        "end": "2018-09-18T09:30:00.000Z",
+        "locations": []
+    },
+    {
+        "_id": "55872fe0700964b650938a1b",
+        "start": "2018-09-18T11:30:00.000Z",
+        "name": "Workshop",
+        "end": "2018-09-18T12:30:00.000Z",
+        "locations": [{
+            "ordering": 0,
+            "_id": "55872fe0700964b650938a08"
+        }],
+        "parent": "55872fe0700964b650938a2f"
+    },
+    {
+        "_id": "55872fe0700964b650938a1c",
+        "start": "2018-09-18T10:00:00.000Z",
+        "name": "Poster Session",
+        "end": "2018-09-18T11:30:00.000Z",
+        "locations": [{
+            "ordering": 0,
+            "_id": "55872fe0700964b650938a04"
+        }],
+        "parent": "5a044579f6699387094f370f"
+    },
+    {
+        "_id": "55872fe0700964b650938a1e",
+        "start": "2018-09-19T11:00:00.000Z",
+        "parent": "55872fe0700964b650938a2d",
+        "name": "Session 5",
+        "end": "2018-09-19T12:30:00.000Z",
+        "locations": [{
+            "ordering": 0,
+            "_id": "55872fe0700964b6509389dd"
+        }]
+    },
+    {
+        "_id": "55872fe0700964b650938a1f",
+        "start": "2018-09-19T08:30:00.000Z",
+        "parent": "55872fe0700964b650938a2d",
+        "name": "Session 4",
+        "end": "2018-09-19T11:00:00.000Z",
+        "locations": [{
+            "ordering": 1,
+            "_id": "55872fe0700964b650938a30"
+        }]
+    },
+    {
+        "_id": "55872fe0700964b650938a20",
+        "start": "2018-09-18T14:30:00.000Z",
+        "parent": "55872fe0700964b650938a02",
+        "name": "Session 3",
+        "end": "2018-09-18T17:30:00.000Z",
+        "locations": [{
+            "ordering": 0,
+            "_id": "55872fe0700964b650938a03"
+        }]
+    },
+    {
+        "_id": "55872fe0700964b650938a21",
+        "start": "2018-09-18T12:30:00.000Z",
+        "name": "Session 2",
+        "end": "2018-09-18T14:00:00.000Z",
+        "locations": [{
+            "ordering": 0,
+            "_id": "55872fe0700964b6509389f7"
+        }],
+        "parent": "55872fe0700964b650938a02"
+    },
+    {
+        "_id": "55872fe0700964b650938a26",
+        "start": "2018-09-18T11:00:00.000Z",
+        "parent": "55872fe0700964b650938a1c",
+        "name": "Poster Presentation 3",
+        "end": "2018-09-18T11:30:00.000Z",
+        "locations": []
+    },
+    {
+        "_id": "55872fe0700964b650938a2d",
+        "start": "2018-09-19T07:15:00.000Z",
+        "parent": "55872fe0700964b6509389e8",
+        "name": "Morning",
+        "end": "2018-09-19T12:00:00.000Z",
+        "locations": []
+    },
+    {
+        "_id": "55872fe0700964b650938a2f",
+        "start": "2018-09-18T07:15:00.000Z",
+        "parent": "55872fe0700964b6509389d0",
+        "name": "Morning",
+        "end": "2018-09-18T12:00:00.000Z",
+        "locations": []
+    },
+    {
+        "_id": "56c312fd87fed15b422d3395",
+        "parent": "55872fe0700964b650938a2f",
+        "end": "2018-09-18T11:00:00.000Z",
+        "start": "2018-09-18T10:00:00.000Z",
+        "name": "Plenary Session",
+        "locations": [{
+            "ordering": 0,
+            "_id": "55872fe0700964b6509389da"
+        }]
+    },
+    {
+        "_id": "59706aa4ce44926a20a490e8",
+        "end": "2018-09-19T18:00:00.000Z",
+        "start": "2018-09-19T14:00:00.000Z",
+        "name": "Advanced glycation end-products as a new predictor of long term outcome after catheter ablation of atrial fibrillation",
+        "locations": [],
+        "parent": "55872fe0700964b650938a06"
+    },
+    {
+        "_id": "59706b0ace44926a20a490fe",
+        "end": "2018-09-18T12:00:00.000Z",
+        "start": "2018-09-18T11:00:00.000Z",
+        "name": "Catheter ablation for atrial fibrillation",
+        "locations": [{
+            "_id": "5a044975f6699387094f374a",
+            "ordering": 0
+        }],
+        "parent": "55872fe0700964b650938a2f"
+    },
+    {
+        "_id": "59d245d24a1b43e23845eb1f",
+        "end": "2018-09-18T10:00:00.000Z",
+        "start": "2018-09-18T09:00:00.000Z",
+        "name": "Abstract Session 1",
+        "locations": [{
+            "_id": "55872fe0700964b650938a25",
+            "ordering": 0
+        }],
+        "parent": "55872fe0700964b650938a2f"
+    },
+    {
+        "_id": "5a044579f6699387094f370f",
+        "end": "2018-09-18T12:00:00.000Z",
+        "start": "2018-09-18T07:00:00.000Z",
+        "name": "Morning Poster Sessions",
+        "locations": [],
+        "parent": "55872fe0700964b6509389d0"
+    },
+    {
+        "_id": "5a0448f7f6699387094f3746",
+        "end": "2018-09-19T18:00:00.000Z",
+        "start": "2018-09-19T14:00:00.000Z",
+        "name": "Board Meetings",
+        "locations": [],
+        "parent": "55872fe0700964b6509389e8"
+    },
+    {
+        "_id": "5a044936f6699387094f3749",
+        "end": "2018-09-19T15:00:00.000Z",
+        "start": "2018-09-19T14:00:00.000Z",
+        "name": "Scientific Committee Meeting",
+        "locations": [{
+            "_id": "5a044975f6699387094f374a",
+            "ordering": 1
+        }],
+        "parent": "5a0448f7f6699387094f3746"
+    },
+    {
+        "_id": "5a058c4cf6699387094f3d0d",
+        "end": "2018-09-18T23:59:00.000Z",
+        "start": "2018-09-18T00:00:00.000Z",
+        "name": "Monday",
+        "locations": []
+    },
+    {
+        "_id": "5a058c4cf6699387094f3d0e",
+        "end": "2018-09-18T12:00:00.000Z",
+        "start": "2018-09-18T07:00:00.000Z",
+        "parent": "5a058c4cf6699387094f3d0d",
+        "name": "Morning Poster Sessions",
+        "locations": []
+    },
+    {
+        "_id": "5a058c4cf6699387094f3d0f",
+        "end": "2018-09-18T12:00:00.000Z",
+        "start": "2018-09-18T07:15:00.000Z",
+        "parent": "5a058c4cf6699387094f3d0d",
+        "name": "Morning",
+        "locations": []
+    },
+    {
+        "_id": "5a058c4cf6699387094f3d17",
+        "end": "2018-09-18T10:00:00.000Z",
+        "start": "2018-09-18T09:00:00.000Z",
+        "parent": "5a058c4cf6699387094f3d0f",
+        "name": "Abstract Session 1",
+        "locations": [{
+            "_id": "5a05895cf6699387094f3b77"
+        }]
+    },
+    {
+        "_id": "5a058c4cf6699387094f3d18",
+        "end": "2018-09-18T11:00:00.000Z",
+        "start": "2018-09-18T10:00:00.000Z",
+        "parent": "5a058c4cf6699387094f3d0f",
+        "name": "Plenary Session",
+        "locations": [{
+            "_id": "5a05895cf6699387094f3b7e"
+        }]
+    },
+    {
+        "_id": "5a058c4cf6699387094f3d19",
+        "end": "2018-09-18T09:00:00.000Z",
+        "start": "2018-09-18T08:30:00.000Z",
+        "parent": "5a058c4cf6699387094f3d17",
+        "name": "Presentation Name 1",
+        "locations": []
+    },
+    {
+        "_id": "5a058c4cf6699387094f3d1a",
+        "end": "2017-09-18T10:00:00.000Z",
+        "start": "2017-09-18T09:30:00.000Z",
+        "parent": "5a058c4cf6699387094f3d17",
+        "name": "Presentation Name 3",
+        "locations": []
+    },
+    {
+        "_id": "5a058c4df6699387094f3d1b",
+        "end": "2017-09-18T09:30:00.000Z",
+        "start": "2017-09-18T09:00:00.000Z",
+        "parent": "5a058c4cf6699387094f3d17",
+        "name": "Presentation Name 2",
+        "locations": []
+    },
+    {
+        "_id": "5a058c4df6699387094f3d1c",
+        "end": "2018-09-18T12:00:00.000Z",
+        "start": "2018-09-18T11:00:00.000Z",
+        "parent": "5a058c4cf6699387094f3d0f",
+        "name": "Catheter ablation for atrial fibrillation",
+        "locations": [{
+            "_id": "5a05895cf6699387094f3b7d"
+        }]
+    },
+    {
+        "_id": "5a058c4df6699387094f3d1e",
+        "end": "2018-09-18T12:30:00.000Z",
+        "start": "2018-09-18T11:30:00.000Z",
+        "parent": "5a058c4cf6699387094f3d0f",
+        "name": "Workshop",
+        "locations": [{
+            "_id": "5a05895cf6699387094f3b76"
+        }]
+    },
+    {
+        "_id": "5a058c4df6699387094f3d1f",
+        "end": "2018-09-18T17:30:00.000Z",
+        "start": "2018-09-18T12:30:00.000Z",
+        "parent": "5a058c4cf6699387094f3d0d",
+        "name": "Afternoon",
+        "locations": []
+    },
+    {
+        "_id": "5a058c4df6699387094f3d20",
+        "end": "2018-09-18T20:00:00.000Z",
+        "start": "2018-09-18T19:00:00.000Z",
+        "parent": "5a058c4cf6699387094f3d0f",
+        "name": "Keynote Session",
+        "locations": []
+    },
+    {
+        "_id": "5a058c4df6699387094f3d21",
+        "end": "2017-09-18T17:30:00.000Z",
+        "start": "2017-09-18T14:30:00.000Z",
+        "parent": "5a058c4df6699387094f3d1f",
+        "name": "Session 3",
+        "locations": [{
+            "_id": "5a05895cf6699387094f3b89"
+        }]
+    },
+    {
+        "_id": "5a058c4df6699387094f3d22",
+        "end": "2017-09-18T14:00:00.000Z",
+        "start": "2017-09-18T12:30:00.000Z",
+        "parent": "5a058c4df6699387094f3d1f",
+        "name": "Session 2",
+        "locations": [{
+            "_id": "5a05895cf6699387094f3b7b"
+        }]
+    },
+    {
+        "_id": "5a058c4df6699387094f3d23",
+        "end": "2018-09-19T00:00:00.000Z",
+        "start": "2018-09-19T00:00:00.000Z",
+        "name": "Tuesday",
+        "locations": []
+    },
+    {
+        "_id": "5a058c4df6699387094f3d24",
+        "end": "2018-09-19T12:00:00.000Z",
+        "start": "2018-09-19T07:15:00.000Z",
+        "parent": "5a058c4df6699387094f3d23",
+        "name": "Morning",
+        "locations": []
+    }
+]

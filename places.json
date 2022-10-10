@@ -1,0 +1,157 @@
+[{
+        "_id": "55872fe0700964b6509389da",
+        "name": "Rio",
+        "configuratorType": "place:room"
+    },
+    {
+        "_id": "55872fe0700964b6509389db",
+        "name": "Sydney",
+        "configuratorType": "place:room"
+    },
+    {
+        "_id": "55872fe0700964b6509389dd",
+        "name": "Berlin",
+        "configuratorType": "place:room"
+    },
+    {
+        "_id": "55872fe0700964b6509389e9",
+        "name": "Stand 6",
+        "configuratorType": "place:booth"
+    },
+    {
+        "_id": "55872fe0700964b6509389ea",
+        "name": "Stand 7",
+        "configuratorType": "place:booth"
+    },
+    {
+        "_id": "55872fe0700964b6509389eb",
+        "name": "Stand 4",
+        "configuratorType": "place:booth"
+    },
+    {
+        "_id": "55872fe0700964b6509389ec",
+        "name": "Stand 5",
+        "configuratorType": "place:booth"
+    },
+    {
+        "_id": "55872fe0700964b6509389ed",
+        "name": "Stand 2",
+        "configuratorType": "place:booth"
+    },
+    {
+        "_id": "55872fe0700964b6509389ee",
+        "name": "Stand 3",
+        "configuratorType": "place:booth"
+    },
+    {
+        "_id": "55872fe0700964b6509389ef",
+        "name": "Stand 1",
+        "configuratorType": "place:booth"
+    },
+    {
+        "_id": "55872fe0700964b6509389f0",
+        "name": "Boston",
+        "configuratorType": "place:room"
+    },
+    {
+        "_id": "55872fe0700964b6509389f2",
+        "name": "Stand 8",
+        "configuratorType": "place:booth"
+    },
+    {
+        "_id": "55872fe0700964b6509389f7",
+        "name": "Capetown",
+        "configuratorType": "place:room"
+    },
+    {
+        "_id": "55872fe0700964b650938a03",
+        "name": "Tokyo",
+        "configuratorType": "place:room"
+    },
+    {
+        "_id": "55872fe0700964b650938a04",
+        "name": "Beijing",
+        "configuratorType": "place:room"
+    },
+    {
+        "_id": "55872fe0700964b650938a08",
+        "name": "Athens",
+        "configuratorType": "place:room"
+    },
+    {
+        "_id": "55872fe0700964b650938a25",
+        "name": "Barcelona",
+        "configuratorType": "place:room"
+    },
+    {
+        "_id": "55872fe0700964b650938a30",
+        "name": "Lisbon",
+        "configuratorType": "place:room"
+    },
+    {
+        "_id": "5992de46d855adb53bd341dd",
+        "name": "Stand XYZ"
+    },
+    {
+        "_id": "59d243e94a1b43e23845eaef",
+        "name": "Demo Room"
+    },
+    {
+        "_id": "59d243f84a1b43e23845eaf1",
+        "name": "Demo Booth"
+    },
+    {
+        "_id": "5a044975f6699387094f374a",
+        "name": "Meeting Room 1"
+    },
+    {
+        "_id": "5a05895cf6699387094f3b76",
+        "configuratorType": "place:room",
+        "name": "Athens"
+    },
+    {
+        "_id": "5a05895cf6699387094f3b77",
+        "configuratorType": "place:room",
+        "name": "Barcelona"
+    },
+    {
+        "_id": "5a05895cf6699387094f3b78",
+        "configuratorType": "place:room",
+        "name": "Beijing"
+    },
+    {
+        "_id": "5a05895cf6699387094f3b79",
+        "configuratorType": "place:room",
+        "name": "Berlin"
+    },
+    {
+        "_id": "5a05895cf6699387094f3b7a",
+        "configuratorType": "place:room",
+        "name": "Boston"
+    },
+    {
+        "_id": "5a05895cf6699387094f3b7b",
+        "configuratorType": "place:room",
+        "name": "Capetown"
+    },
+    {
+        "_id": "5a05895cf6699387094f3b7c",
+        "configuratorType": "place:room",
+        "name": "Lisbon"
+    },
+    {
+        "_id": "5a05895cf6699387094f3b7e",
+        "configuratorType": "place:room",
+        "name": "Rio"
+    },
+    {
+        "_id": "5a05895cf6699387094f3b89",
+        "configuratorType": "place:room",
+        "name": "Tokyo"
+    },
+    {
+        "_id": "5a05895cf6699387094f3b7d",
+        "configuratorType": "place:room",
+        "name": "Meeting Room 1"
+    }
+]
